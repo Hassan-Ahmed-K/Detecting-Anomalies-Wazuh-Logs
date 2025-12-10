@@ -1,0 +1,2 @@
+# Detecting Anomalies Wazuh Logs
+
